@@ -1,0 +1,11 @@
+{"success":true,"result":[{"productid":"75","productname":"Personal","tarjeta_id":"119","id_facturador":"4","id_servicio":"4912","crmid":"36014"},
+
+{"productid":"76","productname":"Claro","tarjeta_id":"115","id_facturador":"3","id_servicio":"4912","crmid":"36014"},
+
+{"productid":"77","productname":"Movistar","tarjeta_id":"116","id_facturador":"1","id_servicio":"4912","crmid":"36014"},
+
+{"productid":"78","productname":"Nextel","tarjeta_id":"118","id_facturador":"5","id_servicio":"4912","crmid":"36014"}
+
+,{"productid":"80","productname":"Direct Tv","tarjeta_id":"157","id_facturador":"41","id_servicio":"4912","crmid":"36014"}
+
+,{"productid":"81","productname":"Tuenti - Quam","tarjeta_id":"167","id_facturador":"7","id_servicio":"4912","crmid":"36014"}]}
